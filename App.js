@@ -1,7 +1,7 @@
 import { StatusBar } from "expo-status-bar";
 import { ScrollView } from "react-native";
 import { StyleSheet, Text, View } from "react-native";
-import { users } from "./assets/User";
+import { users } from "./User";
 export default function App() {
   return (
     <View style={styles.container}>
